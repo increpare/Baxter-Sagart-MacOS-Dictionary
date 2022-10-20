@@ -8,4 +8,21 @@ Wordlist data copyright of Baxter&Sagart as described here: https://ocbaxtersaga
 
 see the releases page for downloads
 
-installation instructions here: https://best-mac-tips.com/2021/05/16/install-custom-dictionaries-on-macos/
+
+
+installation instructions:
+
+For a walkthrough, see here: https://best-mac-tips.com/2021/05/16/install-custom-dictionaries-on-macos/
+
+Quick summary
+1 - unzip the zip
+2 - copy the 'Baxter-Sagart Chinese.dictionary' folder to the ~/Library/Dictionaries
+Bildschirmfoto 2022-10-20 um 12 28 19
+
+3 - select Baxter-Sagart from the Dictionary app settings page
+Bildschirmfoto 2022-10-20 um 12 27 57
+(in German the Dictionary app is called Lexicon 🙃)
+
+Et voilla
+
+Bildschirmfoto 2022-10-20 um 12 22 31
