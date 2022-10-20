@@ -6,9 +6,7 @@ A MacOS Dictionary wrapper for the baxter-Sagart chinese wordlist, with pinyin, 
 
 Wordlist data copyright of Baxter&Sagart as described here: https://ocbaxtersagart.lsait.lsa.umich.edu
 
-see the releases page for downloads
-
-
+see the releases page for download links: https://github.com/increpare/Baxter-Sagart-MacOS-Dictionary/releases/tag/release
 
 installation instructions:
 
